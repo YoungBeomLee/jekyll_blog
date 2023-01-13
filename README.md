@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 영범이의 지킬블로그
+title: Jekyll Gitbook Theme
 permalink: /
 ---
 
